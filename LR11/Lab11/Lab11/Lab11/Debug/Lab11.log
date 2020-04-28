@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Lab11.cpp
+c:\users\admin\desktop\6 семестр\осис\lr11\lab11\lab11\lab11\lab11.cpp(205): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\6 семестр\осис\lr11\lab11\lab11\lab11\lab11.cpp(206): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\6 семестр\осис\lr11\lab11\lab11\lab11\lab11.cpp(207): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\desktop\6 семестр\осис\lr11\lab11\lab11\lab11\lab11.cpp(208): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab11.vcxproj -> C:\Users\Admin\Desktop\6 семестр\ОСиС\LR11\Lab11\Lab11\Debug\Lab11.exe

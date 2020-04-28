@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Lab1.cpp
+c:\users\admin\desktop\6 семестр\осис\lr6\lab1\lab1.cpp(41): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab1.vcxproj -> C:\Users\Admin\Desktop\6 семестр\ОСиС\LR6\lab1\Debug\lab1.exe

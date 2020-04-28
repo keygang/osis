@@ -1,0 +1,4 @@
+LR1.cpp
+stdafx.cpp
+stdafx.h
+targetver.h
